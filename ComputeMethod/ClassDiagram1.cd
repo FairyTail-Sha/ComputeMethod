@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ComputeMethod.FuncImage">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAIAQAAAEAIAAAAAAA=</HashCode>
+      <FileName>FuncImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputeMethod.Function">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAEgAAAAACABAAAgAAAAAAAAAACAAAAAABAAQAACQ=</HashCode>
+      <FileName>Function.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputeMethod.Program">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputeMethod.Unit2">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>第2章非线性求根.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputeMethod.Unit3">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAIAAAAAgAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>第3章线性代数方程组解法.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputeMethod.Unit4">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>第4章拉格朗日插值.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputeMethod.Unit5">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAABAAAAAAAIAAAAAAAAQUAAAAAQCACA=</HashCode>
+      <FileName>第5章数值积分.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputeMethod.追赶">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAACgAQABAAAAAAA=</HashCode>
+      <FileName>追赶法.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Code.LinearAlgebra">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAABAAAAAAAAAAgAAAAAAgAAAAAA=</HashCode>
+      <FileName>LinearAlgebra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Code.Newton">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAAAAAAAACABAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>牛顿法.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="ComputeMethod.FuncOfOneVar">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQAAAA=</HashCode>
+      <FileName>Function.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
